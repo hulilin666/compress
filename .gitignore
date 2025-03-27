@@ -1,0 +1,6 @@
+*.png
+*.pth
+*.tar
+*.zip
+.idea/
+__pycache__/
